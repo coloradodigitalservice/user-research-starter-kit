@@ -60,11 +60,12 @@ An external vendor can help with recruiting user research participants, conducti
 
 ---
 
-## Resources
+# Resources
 
 ### Learn more about human-centered design and user research
 
-- [Trauma-informed design and research](https://github.com/coloradodigitalservice/trauma-informed-design-and-research)  
+- [Trauma-informed design and research](https://github.com/coloradodigitalservice/trauma-informed-design-and-research)
+- [Incorporating equity into decision making](https://github.com/coloradodigitalservice/incorporating-equity-decisions-public)
 _More resources coming soon_
 
 ### External resources about human-centered design and user research
