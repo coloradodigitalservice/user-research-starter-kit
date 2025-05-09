@@ -34,11 +34,13 @@ CDS, in collaboration with Colorado Department of Human Services (CDHS), conduct
 
 ### ⭐ Usability testing for Connecting Colorado
 
-Colorado Department of Labor and Employment (CDLE) worked with CDS to conduct usability testing on Connecting Colorado.
+Colorado Department of Labor and Employment (CDLE) worked with CDS to conduct usability testing on Connecting Colorado, the state’s digital experience for employers and job seekers to connect with each other and access workforce and employment services. CDS conducted usability research with a wide variety of un- and underemployed Coloradans to improve the user experience before launch. Conducting usability testing before launching the new experience reduces call center and front line staff time needed to assist customers.
+
 
 ### ⭐ Insight into energy resources navigation
 
-Colorado Public Utilities Commission (PUC) wanted to gain insight into ratepayers’ current experience accessing energy affordability assistance programs. They partnered with CDS to conduct user research where they were able to learn about their customers’ current experience and what is causing friction in accessing and using energy affordability assistance programs today. 
+Colorado Public Utilities Commission (PUC) wanted to gain insight into ratepayers’ current experience accessing energy affordability assistance programs. They partnered with CDS to conduct user research through a series of interviews with Coloradans, where they were able to learn about their customers’ current experience and what is causing friction in accessing and using energy affordability assistance programs today. Through this user research, PUC is able to deliver a screener tool that is easy to navigate and a frictionless user experience. CDS also leveraged user research with minorities and vulnerable populations to advocate for human translation of the screener tool in other widely spoken languages besides English in the state of Colorado. The research findings also helped guide PUC’s marketing efforts through a community centric approach.
+
 
 ---
 
